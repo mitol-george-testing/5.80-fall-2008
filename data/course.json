@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Spectroscopy"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3bb00750-4104-95e3-58ad-6f8d7504e607"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Small-Molecule Spectroscopy and Dynamics",
+  "course_description": "The goal of this course is to illustrate the spectroscopy of small molecules in the gas phase: quantum mechanical effective Hamiltonian models for rotational, vibrational, and electronic structure; transition selection rules and relative intensities; diagnostic patterns and experimental methods for the assignment of non-textbook spectra; breakdown of the Born-Oppenheimer approximation (spectroscopic perturbations); the stationary phase approximation; nondegenerate and quasidegenerate perturbation theory (van Vleck transformation); qualitative molecular orbital theory (Walsh diagrams); the notation of atomic and molecular spectroscopy.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.80",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
